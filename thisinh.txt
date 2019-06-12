@@ -1,0 +1,17 @@
+10001; Ch� Pheo; 2; 01-01-1997; true; 1.3; 2.5; 9.5
+10002; Nguyen Duy Manh; 31; 01-01-1997; false; 1.3; 2.5; 9.5
+10004; Dinh Cong Manh; 1; 21-09-1997; false; 10.0; 1.0; 10.0
+10005; Nguyen Tuan Hung; 2; 21-01-1997; true; 1.3; 2.5; 9.5
+10006; Nguyen Duy Manh; 31; 11-07-1997; false; 1.3; 2.5; 9.5
+10008; Dinh Cong Trang; 34; 21-05-1997; false; 10.0; 1.0; 10.0
+10009; Duong Nhat Le; 22; 01-01-1997; true; 1.3; 2.5; 9.5
+10010; Nguyen Ngoc Son; 38; 01-01-1997; false; 1.3; 2.5; 9.5
+10011; Vien Thua Chi; 17; 26-09-1997; true; 10.0; 10.0; 10.0
+10012; Quach Tinh; 7; 31-01-1997; false; 10.0; 1.0; 10.0
+10013; Duong Khang; 49; 21-06-1997; true; 1.3; 2.5; 9.5
+10014; Vuong Xu Nhat; 51; 01-01-1997; false; 1.3; 2.5; 9.5
+10015; Hong That Cong; 15; 26-09-1997; true; 10.0; 10.0; 10.0
+10016; Dinh Xuan Thu; 62; 11-02-1997; false; 10.0; 1.0; 10.0
+10017; Doan Dien Khanh; 24; 01-01-1997; true; 1.3; 2.5; 9.5
+10018; Quoc Viet; 24; 11-05-2017; true; 10.0; 10.0; 10.0
+10019; Dinh Cong Tung; 1; 26-09-1997; true; 1.0; 1.0; 1.0
